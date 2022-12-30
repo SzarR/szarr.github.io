@@ -14,13 +14,8 @@
       <pubDate>Fri, 30 Dec 2022 09:26:33 -0600</pubDate>
       
       <guid>https://szarr.github.io/resume/</guid>
-      <description>Aside {width=80%}
-Contact Info lijia.yu@outlook.com github.com/yulijia +1 000-000-0000 For more information, please contact me via email. Skills Experienced in statistical analysis, statistical learning models, and optimization methods.
-Full experience with next generation sequencing data analysis.
-Highly skilled in R, Bash, Perl, Python, LaTeX
-Disclaimer This resume was made with the R package pagedown.
-Last updated on r Sys.Date().
-Main Lijia Yu Currently searching for a PhD student position Please note that this is a real resume, and I&amp;rsquo;m really looking for a PhD student position at the moment.</description>
+      <description>Resume My resume goes here!! ======================== My Header My Header 2 My Header 3 Test Test Q# what And here!
+print(&amp;#34;Hello world!&amp;#34;) And Here!</description>
     </item>
     
     <item>
