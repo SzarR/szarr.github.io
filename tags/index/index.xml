@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>index on Paper</title>
-    <link>https://hugo-paper.vercel.app/tags/index/</link>
-    <description>Recent content in index on Paper</description>
+    <title>index on SzarR</title>
+    <link>https://szarr.github.io/tags/index/</link>
+    <description>Recent content in index on SzarR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.</copyright><atom:link href="https://hugo-paper.vercel.app/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2023</copyright><atom:link href="https://szarr.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>https://hugo-paper.vercel.app/post/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <link>https://szarr.github.io/post/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-paper.vercel.app/post/</guid>
+      <guid>https://szarr.github.io/post/</guid>
       <description></description>
     </item>
     
