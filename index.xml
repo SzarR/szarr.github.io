@@ -9,12 +9,12 @@
     <copyright>Copyright © 2023</copyright>
     <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://szarr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Resume</title>
+      <title></title>
       <link>https://szarr.github.io/resume/</link>
       <pubDate>Fri, 30 Dec 2022 09:26:33 -0600</pubDate>
       
       <guid>https://szarr.github.io/resume/</guid>
-      <description>Skills Excellent in R and the tidyverse ecosystem, in addition to: shiny, knitr, markdown, ggplot2, caret, tidymodels, psych, golem Proficient in Python with pandas, sk-learn, spaCy, numpy, matplotlib, statsmodels Proficient in Tableau &amp;amp; Tableau Server for visualization work Excellent in SQL and Tera Data Excellent in the field of psychometrics and test development &amp;amp; validation Proficient in statistical software IBM SPSS &amp;amp; Syntax Excellent in Machine Learning and Natural Language Processing using Python &amp;amp; R Native fluency in Polish and English and near fluency in German Experience Checkster (aka Outmatch HCM/Harver), San Francisco, CA; (10/2020 - 03/2021)</description>
+      <description>Skills Excellent in R and the tidyverse ecosystem, in addition to: shiny, knitr, markdown, ggplot2, caret, tidymodels, psych, golem Proficient in Python with pandas, sk-learn, spaCy, numpy, matplotlib, statsmodels Proficient in Tableau &amp;amp; Tableau Server for visualization work Excellent in SQL and Tera Data Excellent in the field of psychometrics and test development &amp;amp; validation Proficient in statistical software IBM SPSS &amp;amp; Syntax Excellent in Machine Learning and Natural Language Processing using Python &amp;amp; R Native fluency in Polish and English and near fluency in German Experience Unum, Chattanooga, TN; (06/2021 - Current) Job Title: Data Scientist II X Y Z AA BB CC Checkster (aka Outmatch HCM/Harver), San Francisco, CA; (10/2020 - 03/2021)</description>
     </item>
     
     <item>
@@ -98,9 +98,7 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://szarr.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmark https://github.</description>
+      <description>Talk about myself here. A paragraph Bio.</description>
     </item>
     
     <item>
