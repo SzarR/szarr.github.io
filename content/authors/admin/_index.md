@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist II
+role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,13 +22,14 @@ organizations:
     url: https://www.unum.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a people analytics expert bridging the gap between research and practice.
 
 # Interests to show in About widget
 interests:
   - Natural Language Processing
   - Programming in R
   - People/Workforce Analytics
+  - Data Visualization
 
 # Education to show in About widget
 education:
@@ -44,20 +45,34 @@ education:
       year: 2009
 
 # Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
+      - name: R (Rstudio)
+        description: ''
+        percent: 100
+        icon: chart-line
+        icon_pack: fab
       - name: Tableau
         description: ''
         percent: 75
         icon: chart-line
         icon_pack: fab
-      - name: Python
+      - name: Python (Jupyter/VSCode)
         description: ''
         percent: 75
         icon: python
         icon_pack: fab
+      - name: SPSS
+        description: ''
+        percent: 100
+        icon: database
+        icon_pack: fas
+      - name: Statistics
+        description: ''
+        percent: 100
+        icon: database
+        icon_pack: fas
       - name: Data Science
         description: ''
         percent: 100
@@ -65,26 +80,51 @@ skills:
         icon_pack: fas
       - name: SQL
         description: ''
+        percent: 75
+        icon: database
+        icon_pack: fas
+        name: Docker
+        description: ''
+        percent: 75
+        icon: database
+        icon_pack: fas
+      - name: Agile/Scrum
+        description: ''
+        percent: 100
+        icon: database
+        icon_pack: fas
+      - name: Psychometrics
+        description: ''
+        percent: 90
+        icon: database
+        icon_pack: fas
+      - name: NLP
+        description: ''
         percent: 60
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Organizational
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Private Pilot
         description: ''
-        percent: 60
+        percent: 100
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Running
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Hiking
         description: ''
         percent: 80
+        icon: camera-retro
+        icon_pack: fas
+      - name: Travelling
+        description: ''
+        percent: 100
         icon: camera-retro
         icon_pack: fas
 
@@ -103,5 +143,5 @@ social:
 highlight_name: true
 ---
 
-Robert Szarek is a data scientist in the people analytics team at Unum. His projects include 
+Robert Szarek is an I/O Psychologist turned Data Scientist. His primary field is within people analytics, where he leverages machine learning and natural language processing to craft compelling stories around organizational behavior. Data science has provided me with the technological tools required, while my academic degree provides a comprehensive understanding of human behavior in the workplace. The intersection of these two fields provides the opportunity to make a significant impact in the workplace. Aside from work, I'm an aviation geek with a FAA pilot's license with more than 200 hours logged in the past decade.
 {style="text-align: justify;"}
