@@ -26,10 +26,10 @@ bio: I'm a people analytics expert bridging the gap between research and practic
 
 # Interests to show in About widget
 interests:
-  - Natural Language Processing
-  - Programming in R
-  - People/Workforce Analytics
-  - Data Visualization
+  - Workforce Analytics
+  - Storytelling with Tableau
+  - Natural language processing in Python
+  - Machine learning in R
 
 # Education to show in About widget
 education:
@@ -88,7 +88,7 @@ skills:
         percent: 75
         icon: database
         icon_pack: fas
-      - name: Agile/Scrum
+      - name: Git/Github
         description: ''
         percent: 100
         icon: database
@@ -107,22 +107,37 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Private Pilot
+      - name: Agile/Scrum
         description: ''
         percent: 100
         icon: person-hiking
         icon_pack: fas
-      - name: Running
+      - name: Project Management
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Hiking
+      - name: Storytelling with Data
         description: ''
         percent: 80
         icon: camera-retro
         icon_pack: fas
-      - name: Travelling
+      - name: Business Acumen
+        description: ''
+        percent: 100
+        icon: camera-retro
+        icon_pack: fas
+      - name: Aviation Industry Knowledge
+        description: ''
+        percent: 100
+        icon: camera-retro
+        icon_pack: fas
+      - name: Critical thinking
+        description: ''
+        percent: 100
+        icon: camera-retro
+        icon_pack: fas
+      - name: Team player
         description: ''
         percent: 100
         icon: camera-retro
