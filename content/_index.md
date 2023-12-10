@@ -90,32 +90,23 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2015-09-01'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          icon: faa
+          organization: Federal Aviation Administration
+          organization_url: https://www.faa.gov
+          title: Private Pilot License, Aircraft Single Engine Land
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+        - certificate_url: ''
+          date_end: '2023-05-01'
+          date_start: '2020-10-01'
+          description: Built an R package called *Medusa* to streamline the data cleaning process of membership data. Also participated in establishing a fundamental data infrastructure plan for all volunteer committees within SIOP to better streamline the availability of data democratization across the organization.
+          icon: siop
+          organization: SIOP
+          organization_url: https://www.siop.org
+          title: Society for Industrial/Organizational Psychologists - Volunteer
           url: ''
     design:
       columns: '2'
@@ -171,7 +162,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+    #    {{< gallery album="demo" >}}
     design:
       columns: '1'
   - block: collection

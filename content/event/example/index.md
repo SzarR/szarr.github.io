@@ -1,31 +1,25 @@
 ---
-title: Example Talk
+title: Reducing Disparity and Increasing Diversity
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: 2019 SIOP Annual Conference
+event_url: https://www.siop.org
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Gaylord National Resort & Convention Center, Maryland
+
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'We use simulated data in a law enforcement context to assess the degree to which our efforts to mitigate subgroup differences result in real world hiring of minority group members. We find that the effect size differences of selection tools are far less important than sample diversity and potential testing attendance rates.'
 
 # Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2019-04-05T12:00:00Z'
+date_end: '2019-04-05T12:50:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2019-04-01T00:00:00Z'
 
-authors: []
-tags: []
+authors: ['Maxwell G. Porter', 'Mark W. Tawney', 'Robert W. Szarek', 'Caitie Jacobson']
+tags: ['talks', 'adverse impact', 'disparity', 'air']
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -59,15 +53,3 @@ slides: example
 projects:
   - example
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
