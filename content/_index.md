@@ -33,7 +33,7 @@ sections:
           company: Unum
           company_url: 'https://www.unum.com'
           company_logo: org-unum
-          location: Chicago, Illinois
+          location: Remote
           date_start: '2021-06-21'
           date_end: ''
           description: |2-
@@ -49,7 +49,7 @@ sections:
           company: Checkster / OutMatch
           company_url: 'https://outmatch.com/'
           company_logo: org-checkster
-          location: Elmwood Park, Illinois
+          location: Remote
           date_start: '2020-10-01'
           date_end: '2021-03-01'
           description:  |2-
@@ -107,6 +107,15 @@ sections:
           organization: SIOP
           organization_url: https://www.siop.org
           title: Society for Industrial/Organizational Psychologists - Volunteer
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2022-11-01'
+          description: Helping build data visualization infrastructure from survey responses to document the story of engagement and growth for YTP. I primarily use R Markdown / Quarto to build visualization notebooks that are connected to google sheets survey data. Other duties as a volunteer include consultation on survey development processes concerning content, sample sizes, and statistical testing to demonstrate event impact on the wellbeing of the community.
+          icon: org-ytp
+          organization: Yellow Tulip Project
+          organization_url: https://theyellowtulipproject.org/
+          title: The Yellow Tulip Project - Volunteer
           url: ''
     design:
       columns: '2'

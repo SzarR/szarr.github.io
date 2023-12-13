@@ -51,13 +51,13 @@ skills:
       - name: R (Rstudio)
         description: ''
         percent: 100
-        icon: chart-line
-        icon_pack: fab
+        icon: code
+        icon_pack: fas
       - name: Tableau
         description: ''
         percent: 75
         icon: chart-line
-        icon_pack: fab
+        icon_pack: fas
       - name: Python (Jupyter/VSCode)
         description: ''
         percent: 75
@@ -66,43 +66,48 @@ skills:
       - name: SPSS
         description: ''
         percent: 100
-        icon: database
+        icon: square-root-alt
         icon_pack: fas
       - name: Statistics
         description: ''
         percent: 100
-        icon: database
+        icon: chart-area
         icon_pack: fas
       - name: Data Science
         description: ''
         percent: 100
-        icon: chart-line
+        icon: laptop
         icon_pack: fas
       - name: SQL
         description: ''
         percent: 75
         icon: database
         icon_pack: fas
-        name: Docker
+      - name: Docker
         description: ''
         percent: 75
-        icon: database
-        icon_pack: fas
+        icon: docker
+        icon_pack: fab
       - name: Git/Github
         description: ''
         percent: 100
-        icon: database
-        icon_pack: fas
+        icon: git
+        icon_pack: fab
       - name: Psychometrics
         description: ''
         percent: 90
-        icon: database
+        icon: superscript
         icon_pack: fas
-      - name: NLP
+      - name: Natural Language Processing (NLP)
         description: ''
-        percent: 60
-        icon: database
+        percent: 75
+        icon: language
         icon_pack: fas
+      - name: Markdown
+        description: ''
+        percent: 100
+        icon: markdown
+        icon_pack: fab
   - name: Organizational
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -110,37 +115,37 @@ skills:
       - name: Agile/Scrum
         description: ''
         percent: 100
-        icon: person-hiking
+        icon: tasks
         icon_pack: fas
-      - name: Project Management
+      - name: Project management
         description: ''
         percent: 100
-        icon: cat
+        icon: project-diagram
         icon_pack: fas
-      - name: Storytelling with Data
+      - name: Storytelling with data
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 100
+        icon: table
         icon_pack: fas
       - name: Business Acumen
         description: ''
         percent: 100
-        icon: camera-retro
+        icon: briefcase
         icon_pack: fas
-      - name: Aviation Industry Knowledge
+      - name: Aviation industry knowledge
         description: ''
         percent: 100
-        icon: camera-retro
+        icon: plane
         icon_pack: fas
       - name: Critical thinking
         description: ''
         percent: 100
-        icon: camera-retro
+        icon: brain
         icon_pack: fas
       - name: Team player
         description: ''
         percent: 100
-        icon: camera-retro
+        icon: users
         icon_pack: fas
 
 social:
