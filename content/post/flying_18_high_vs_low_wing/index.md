@@ -13,7 +13,6 @@ categories:
   - Aviation
 
 ---
-
 I was recently asked by the President of my flying club on whether I’d like to be a “member-at-large” with the club. The basic premise being that it’s the lowest-tiered board member position of a non-profit flying organization. I thought it’d be an excellent opportunity to dive into learning how these types of organizations function, and, if in the future I’d like to upgrade my position to something higher in the club, I’d have an easy foot in. 
 
 One of the most significant topics up for discussion in 2018 will certainly be acquiring a fourth airplane. We’ve reached a certain level of capacity with the current three airplanes we have, which leaves a question concerning what type of aircraft will the fourth one be! Members of the club are adamantly split on what to decide to buy, there are members who prefer another boring Cessna 172S, members who’d like something to haul their entire family over quite a bit of land (Piper Dakota or so), and another group of members who’d prefer something versatile, economical, sleek and shiny, something like perhaps a Diamond DA-40. My opinions rest with the third aircraft, a Diamond aircraft.
