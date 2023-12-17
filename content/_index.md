@@ -180,7 +180,7 @@ sections:
       title: Gallery
       subtitle: 'Test'
       text: |-
-        {{< gallery album="z" >}}
+        {{< gallery album="tst" >}}    
     design:
       columns: '1'
   - block: collection
