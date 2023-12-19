@@ -178,9 +178,9 @@ sections:
   - block: markdown
     content:
       title: Gallery
-      subtitle: 'Test'
+      subtitle: 'A curated set of photos from my flying trips.'
       text: |-
-        {{< gallery album="tst" >}}    
+        {{< gallery album="aviation" >}}    
     design:
       columns: '1'
   - block: collection

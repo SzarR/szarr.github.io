@@ -14,8 +14,9 @@ Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-fl
 ![png](output_1_0.png)
     
 
-```python
-print("Welcome to Academic!")
+```r
+c <- c(1,2,3,4
+print(mean(c, na.rm=T)))
 ```
 
     Welcome to Academic!
