@@ -1,11 +1,6 @@
 ---
-<<<<<<< HEAD
 title: Instrument XC Flight
 date: '2020-07-07'
-=======
-title: Instrument Cross Country Flight
-date: '2020-08-23'
->>>>>>> 52d1dd3 (Finished upload of blog posts.)
 summary:
 
 authors:
@@ -32,11 +27,7 @@ The flight at altitude really was uneventful. We had some frequency changes alon
 
 As we started getting in closer to our destination, we had two different navigation based approaches we were looking to shoot. Kansas City Center was very accommodating with our requests. The first was the VOR/DME 18 ARC, which terminated with a missed procedure into a hold, where we’d then obtain vectors for the straight in RNAV GPS 18 terminating in a full stop landing.
 
-<<<<<<< HEAD
 Approach 1: VOR/DME 18
-=======
-*Approach 1: VOR/DME 18*
->>>>>>> 52d1dd3 (Finished upload of blog posts.)
 
 This approach was pretty nutty. First of all, our GPS430 gave us the STEEP TURN AHEAD warning in the message box when we were flying towards UFJUV, the IAF for the DME ARC. I descended down to 2,300 and performed a left hand turn at 30 degrees bank to intercept the DME ARC and fly it at 7NM. The lateral limits there is +/- 1NM on either side. Therefore, if during the ARC I was at 6.84, I’d still be .84NM away from the protected area to the left of the ARC. I followed this ARC through to the IF, as seen below:
 
@@ -44,7 +35,6 @@ This approach was pretty nutty. First of all, our GPS430 gave us the STEEP TURN 
 
 The IF was OPUHY, where a turn to the final approach course of 179 degrees magnetic was required. You then follow this to the FAF (VLA). Once crossing the FAF you are allowed to descend down to 1140 MSL where you’ll be at the MDA and in a position to make a landing, remember, three things need to occur for you to make the landing and go under the MDA:
 
-<<<<<<< HEAD
 - In a position from where you are able to make a safe landing from
 - The required flight visibility is acquired, 1SM in this case.
 - Any of the 14 or so ground-based reference points have been acquired.
@@ -52,15 +42,6 @@ The IF was OPUHY, where a turn to the final approach course of 179 degrees magne
 I went missed at the MAP, which was WOBVI at 5.8 DME from VLA. This is basically directly above the threshold of RWY 18. I then executed the published missed approach and flew direct VLA for the hold, with a parallel entry. The hold did not last long before vectors were given straight for the IAF associated with the RNAV GPS.
 
 Approach 2: RNAV GPS 18
-=======
-  - In a position from where you are able to make a safe landing from
-  - The required flight visibility is acquired, 1SM in this case.
-  - Any of the 14 or so ground-based reference points have been acquired.
-
-I went missed at the MAP, which was WOBVI at 5.8 DME from VLA. This is basically directly above the threshold of RWY 18. I then executed the published missed approach and flew direct VLA for the hold, with a parallel entry. The hold did not last long before vectors were given straight for the IAF associated with the RNAV GPS.
-
-*Approach 2: RNAV GPS 18*
->>>>>>> 52d1dd3 (Finished upload of blog posts.)
 
 The RNAV GPS approach was more straightforward than the VOR/DME approach before. It was again, an LNAV only approach with +V for vertical guidance (advisory in nature). My course corrections were quite significant on this approach, and it was not a great approach. I flew it down to the MDA and went visual at the VDP. I landed and we taxied to get fuel and head back home to DPA. However, the fuel tank was broken and we unfortunately had to fly over to 2H0 for fuel and head back home IFR to KDPA.
 
@@ -68,18 +49,9 @@ The final flight back home was at 5,000 feet, a very smooth and calm night. I wa
 
 Things I took away from this flight:
 
-<<<<<<< HEAD
 - Blue diamond on the green course needle on the Aspen EFD to stay on track.
 - De-clutter your display units as necessary!
 - Maintain small changes to your heading/course, and continually make small corrections.
 - The quicker you trim the airplane out, the better you’ll be on the overall quality of maintaining your DTK.
 
 I logged 5.2 HOBBS on this flight, which will almost get me to where I need to be for check-ride ready status. I have some more work to do with instrument approaches, flying a bunch of them back to back to get me checkride ready. But other then that, I’m looking to be in good shape for it!
-=======
-  - Blue diamond on the green course needle on the Aspen EFD to stay on track.
-  - De-clutter your display units as necessary!
-  - Maintain small changes to your heading/course, and continually make small corrections.
-  - The quicker you trim the airplane out, the better you’ll be on the overall quality of maintaining your DTK.
-
-I logged 5.2 HOBBS on this flight, which will almost get me to where I need to be for check-ride ready status. I have some more work to do with instrument approaches, flying a bunch of them back to back to get me checkride ready. But other then that, I’m looking to be in good shape for it!
->>>>>>> 52d1dd3 (Finished upload of blog posts.)

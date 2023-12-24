@@ -21,25 +21,15 @@ On a last-minute whim due to some favorable warm weather and a short work week, 
 
 **KDPA JOT EON KIKK**
 
-<<<<<<< HEAD
 ![png](post_29_1.png)
-=======
-![png](images/post_29_1.png)
->>>>>>> 52d1dd3 (Finished upload of blog posts.)
 
 Total flying time was approximately ~ 45 minutes each way. The plan was to touch down at the airport, taxi back and take off again back for KDPA. Before takeoff, I tuned as many of the parameters concerning the flight as I could, including radio frequencies, the expected approach at KIKK (ILS 04) and the various navigation radio facilities along the route (JOT, EON). Frank and I agreed that I’ll be the PF (pilot flying) and he will be my safety pilot in the form of PIC PNF. As there are two crew-members required for this type of flight (one scanning the outside for traffic, the other flying), we are both legally able to log PIC time for the duration of the flight that I am operating under the hood. We took off from RWY 20R at 21:02 CDT.
 
 The Piper Archer III is an absolute breeze to fly. I like the low-wing configuration better than a Cessna, and the tank switching every 00:45 minutes makes it a less forgiving airplane, than, a Cessna, where gravity keeps the fuel supply to the engine going. I’ve been focusing all my flying in this single airplane in order to become as comfortable with it as possible, in addition to the avionics which include 1 GPS430W, 1 GPS430, STEC 55X Auto Pilot, ADS-B IN/OUT, and an ASPEN EFD1000. It’s the relationship between the ASPEN EFD and the 430W that I need to pay the most attention to, as these two tools are simply indispensable for a modern IFR flight.
 
-<<<<<<< HEAD
 During the en-route phase I began setting up for the approach. In instrument flying, the pinnacle of the entire flight rests on the pilot properly flying an approach procedure into an airport that is capable of handling these types of arrivals. Before commencing the approach, the pilot first needs to brief it, based on the chart for that airport and runway. The pilot must always tune, and identify all ground based navigation systems and follow the descent and landing checklists. Here we have the KIKK ILS 04 approach that I was going to fly into the airport: 
 
 ![png](post_29_2.png)
-=======
-During the en-route phase I began setting up for the approach. In instrument flying, the pinnacle of the entire flight rests on the pilot properly flying an approach procedure into an airport that is capable of handling these types of arrivals. Before commencing the approach, the pilot first needs to brief it, based on the chart for that airport and runway. The pilot must always tune, and identify all ground based navigation systems and follow the descent and landing checklists. Here we have the KIKK ILS 04 approach that I was going to fly into the airport:
-
-![png](images/post_29_2.png)
->>>>>>> 52d1dd3 (Finished upload of blog posts.)
 
 Briefing the approach needs to begin from the top of the strip, and working your way down. The first things to note are the Airport, Runway, and localizer approach frequency, 108.7. Next, the final approach course, 038 degrees. Then, our landing distance gives us a good idea about how much length we have for our touch-down and roll-out. Next, we review the pertinent notes. Circling to the opposed 16/34 RWY at night is forbidden, and increases to the decision altitude must be made if certain criteria are met, such as in-operational runway lights or a lack of altimeter setting.
 

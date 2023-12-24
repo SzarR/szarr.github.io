@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
 title: Instrument Knowledge Test Passed
-=======
-title: Instrument Rating Test Passed
->>>>>>> 52d1dd3 (Finished upload of blog posts.)
 date: '2020-03-08'
 summary:
 
