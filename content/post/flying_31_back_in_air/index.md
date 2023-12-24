@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Back in the Air
+=======
+title: Back in the Air - Sort Of
+>>>>>>> 52d1dd3 (Finished upload of blog posts.)
 date: '2020-06-19'
 summary:
 
@@ -34,17 +38,29 @@ Of course we checked a plethora of other things on the airplane as well, these j
 
 We pulled the airplane out and into the alley:
 
+<<<<<<< HEAD
 ![jpg](images/post_31_6.jpg)
 
 We next focused on configuring the avionics, headsets, and routing. We checked the applicable weather, NOTAMs, TFRs, and any restrictions that would pose an issue to the flight we were aiming to complete for the day. The plan was to fly to KDKB to execute the RNAV GPS 27 instrument procedure, discontinuing the approach at DA and flying straight to the holding pattern. Afterward, several takeoffs and landings were in order to get a feel for the airplane and it’s landing and takeoff capabilities in different types of configurations.
 
 ![jpg](images/post_31_7.jpg)
+=======
+![jpg](images/post_31_5.jpg)
+
+We next focused on configuring the avionics, headsets, and routing. We checked the applicable weather, NOTAMs, TFRs, and any restrictions that would pose an issue to the flight we were aiming to complete for the day. The plan was to fly to KDKB to execute the RNAV GPS 27 instrument procedure, discontinuing the approach at DA and flying straight to the holding pattern. Afterward, several takeoffs and landings were in order to get a feel for the airplane and it’s landing and takeoff capabilities in different types of configurations.
+
+![jpg](images/post_31_6.jpg)
+>>>>>>> 52d1dd3 (Finished upload of blog posts.)
 
 You can see KDKB loaded in GPS1 on the bottom of the screen, the engine is stabilized and running, and we have just obtained Information Charlie, specifying weather with ceilings > 5,000 feet and visibility > 5 SM. Winds were 100/09. We taxied for RWY10 with E F, and took off shortly thereafter.
 
 After takeoff, we continuously had the ALT2 indication steady on. 
 
+<<<<<<< HEAD
 ![jpg](images/post_31_8.jpg)
+=======
+![jpg](images/post_31_7.jpg)
+>>>>>>> 52d1dd3 (Finished upload of blog posts.)
 
 ALT2 indication steady ON.
 

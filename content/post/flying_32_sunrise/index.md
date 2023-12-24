@@ -23,6 +23,7 @@ For today’s mission, Tomasz and I decided to do a sunrise flight. As we are in
 
 Tomasz encouraged me to fly the Eisenhower transition which I never did before. My version of Foreflight did not have I290 depicted, so we visually stayed clear of the Class-B and Class-C airspace while peeling our eyes to find the highway. We flew at 1,800 feet MSL the entire duration, and contacted Midway Tower to let them know we were monitoring their frequency for traffic or any other important notifications. They did not assign us a squawk code on our eastward journey, but did when flying back westward toward DPA. Likely because of the traffic loads. After reaching the downtown area, we did a circular flight around the area and proceeded southeast DCT KVPZ, transitioning through KGYY airspace. Pictures:
 
+<<<<<<< HEAD
 ![png](images/post_32_1.png)
 ![jpeg](images/post_32_2.jpeg)
 ![png](images/post_32_3.png)
@@ -36,6 +37,18 @@ I: Inspect IAP waypoints
 C: CDI selection GPS or VLOC
 
 A: Autopilot roll modes during the approach
+=======
+![jpg](images/post_32_1.jpg)
+![jpg](images/post_32_2.jpeg)
+![jpg](images/post_32_3.jpg)
+
+Once exiting, we were relatively close to the destination and so I loaded the RNAV GPS RWY 09 approach into the 430W and set up my approach plate and began briefing the approach. A helpful mnemonic here is PICA:
+
+- P: Procedure
+- I: Inspect IAP waypoints
+- C: CDI selection GPS or VLOC
+- A: Autopilot roll modes during the approach
+>>>>>>> 52d1dd3 (Finished upload of blog posts.)
 
 Tomasz advised I fly the procedure turn for training purposes and I agreed. Approach plate:
 
@@ -45,6 +58,7 @@ Key pieces during the briefing include Final Approach Course, landing runway len
 
 I therefore flew direct FLABE, at 2,800 MSL with the STEC55X in NAV mode. Once reaching the waypoint I switched the roll mode to Heading mode and selected 272 as the outbound course. As this was a direct entry (coming from a magnetic heading of 130), we didn’t have to fly any special procedure with joining the procedure turn. Once I flew heading 272 for 4NM, I switched the 430W to OBS mode and dialed in 092 for the CRS, to fly inbound the holding fix, FLABE. This completed the procedure turn and I could then sequence DCT OCAVE to the FAF and call GUMPS for my pre-landing checklist. The GUMPS checklist stands for:
 
+<<<<<<< HEAD
 G: Fuel tank switching
 
 U: Undercarriage
@@ -58,5 +72,16 @@ S: Seat belts and switches (lights, pitot heat, etc.)
 The 430W was picking up the LPV signal so DA was established at 1038 with 1SM visibility. AWOS was reporting 4SM with haze, and sure enough, this photo was snapped 3 minutes before touchdown:
 
 ![png](images/post_32_5.png)
+=======
+- G: Fuel tank switching
+- U: Undercarriage
+- M: Mixture
+- P: Propeller
+- S: Seat belts and switches (lights, pitot heat, etc.)
+
+The 430W was picking up the LPV signal so DA was established at 1038 with 1SM visibility. AWOS was reporting 4SM with haze, and sure enough, this photo was snapped 3 minutes before touchdown:
+
+![jpg](images/post_32_5.jpg)
+>>>>>>> 52d1dd3 (Finished upload of blog posts.)
 
 Towards the end I lost the glideslope a little bit as I was fixated on tracking the localizer. Nevertheless, we broke out of the fog and I was able to see the runway and visually land without incident. We arrived at the FBO and debarked for a debriefing on how to properly enter holding patterns and Tomasz took over for his leg of the flight. This included an RNAV approach at 05C and then heading back to base.
