@@ -1,6 +1,6 @@
 ---
 title: Summer 2020 Schedule
-date: '2020-07-07'
+date: '2020-09-19'
 summary:
 
 authors:

@@ -1,6 +1,6 @@
 ---
 title: Instrument XC Flight
-date: '2020-07-07'
+date: '2020-08-23'
 summary:
 
 authors:
