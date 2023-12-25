@@ -13,8 +13,6 @@ categories:
   - Aviation
 
 ---
-
-
 If emergency strikes during your next flight, will you be ready to act efficiently? As a student pilot working toward my PPL this year, I have treated emergency procedures as a pivotal cornerstone of my flight training. For me, the thought of an emergency happens fairly regularly, and because of it, I am able to plan accordingly. A once famous quote states: “A pilot can be disappointed, but should never be surprised.” Taxi and takeoff briefings are instrumental toward the success of encountering an engine-out scenario after takeoff. Referencing current aerodome charts, minimum turn back altitudes, and suitable alternative landing scenarios should all be briefed. Taking it a step further, a glance through the emergency procedures chapter in my Cessna 172P Information Manual, Section 3, outlines a plethora of quick-action checklists available for utilization. As far as these checklists are concerned, these must be ingrained in the memory of a serious aviator because time will not be on your side.
 
 What are some of these procedures for encountering emergencies when the engine is turning? I have outlined a select few below:

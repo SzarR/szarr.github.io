@@ -8,9 +8,13 @@ authors:
 
 tags:
   - Flying
+  - AME
+  - Medical
+  - Aorta
 
 categories:
   - Aviation
+  - Medical
 
 ---
 In 2005 I was diagnosed with a “severe coarctation of aorta,” which, in aviation terminology, is considered an ineligible condition for medical certification. 14 CFR 67 outlines the conditions of medical certification under the FAA. the part that specifically applies to my condition is found in .113, .213 and .313. Nevertheless, I was not deterred and submitted the history of my diagnosis to the FAA Civil Aerospace Medical Institute (CAMI) for an individual review of my case and determination based on the evidence I provided. My results were fruitful and I was granted authorization for special issuance of a medical certificate under Title 14 of the CFR’s Section 67.401. I am now required to annually submit a wellness report by my treating cardiologist, outlining my treatment plan and medications, in addition to any adverse symptoms I may be experiencing. I should also include a copy of a recent 2D M-mode echocardiogram.

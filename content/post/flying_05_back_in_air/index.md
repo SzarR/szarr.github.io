@@ -8,6 +8,7 @@ authors:
 
 tags:
   - Flying
+  - Checkride
 
 categories:
   - Aviation

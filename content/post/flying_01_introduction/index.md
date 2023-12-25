@@ -1,13 +1,14 @@
 ---
 title: Introduction
 date: '2013-02-14'
-summary: Welcome
+summary: Welcome to my blog!
 
 authors:
   - admin
 
 tags:
   - Flying
+  - Introduction
 
 categories:
   - Aviation
