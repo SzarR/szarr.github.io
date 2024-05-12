@@ -10,10 +10,6 @@ date: '2022-03-08'
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://szarr.github.io/medusa/'
 
-#image:
-#  caption: Photo by rawpixel on Unsplash
-#  focal_point: Smart
-
 links:
 url_code: ''
 url_pdf: ''
