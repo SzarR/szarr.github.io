@@ -121,11 +121,11 @@ sections:
           date_end: '2019-01-01'
           date_start: '2017-11-01'
           description: I served on the board of a not-for-profit flying club.
-          icon: 
+          icon: org-ffc
           organization: Fox Flying Club
           organization_url: https://www.foxflying.com/
           title: Fox Flying Club - Board Member
-          url: ''
+          url: 'www.foxflying.com'
     design:
       columns: '2'
   - block: collection
