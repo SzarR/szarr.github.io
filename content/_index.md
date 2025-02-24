@@ -29,7 +29,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Data Scientist II - People Analytics
+        - title: Human Factors Researcher - Contractor
+          company: Federal Aviation Administration
+          company_url: 'https://www.faa.gov'
+          company_logo: org-unum
+          location: Remote
+          date_start: '2024-04-01'
+          date_end: ''
+          description: |2-
+              
+              * Run parametric analyses to determine significant differences in flight crew performing in Level-D flight simulators.
+              * Design and execute experiments.
+              * Build code infrastructure in R to automate and scale hundreds of statistical tests to identify differences.
+
+        - title: Senior Data Scientist - People Analytics
           company: Unum
           company_url: 'https://www.unum.com'
           company_logo: org-unum
