@@ -59,8 +59,8 @@ sections:
               * Performed a continual chi-square analysis to analyze turnover rates for employees who received a salary adjustment.
 
         - title: I/O Psychologist
-          company: Checkster / OutMatch
-          company_url: 'https://outmatch.com/'
+          company: Checkster
+          company_url: 'https://www.checkster.com/'
           company_logo: org-checkster
           location: Remote
           date_start: '2020-10-01'
@@ -206,9 +206,9 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Topics
-    design:
-      columns: '2'
+ # - block: tag_cloud
+ #   content:
+ #     title: Topics
+ #   design:
+ #     columns: '2'
 ---
