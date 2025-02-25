@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Robert W Szarek
+title: Robert Szarek
 
 # Full name (for SEO)
 first_name: Robert
